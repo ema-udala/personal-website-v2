@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'WakaWaka companion'
+title: 'WakaPadi companion'
 cover: './Copy.jpg'
 github: 'https://github.com/ema-udala'
 external: 'https://##'
