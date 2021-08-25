@@ -266,7 +266,7 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="https://ema-udala.medium.com/" className="resume-link">
+            <a href="https://ema-udala.medium.com/" target"blank" className="resume-link">
               Personal blog
             </a>
           </nav>
