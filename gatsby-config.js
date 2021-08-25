@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ema-udala',
     description:
-      'Emmanuel Udala, web developer...',
+      'Emmanuel Udala, Front-end software developer || Technical writer',
     siteUrl: 'https://ema-udala.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@_elaigwu',
