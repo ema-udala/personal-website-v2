@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-🛠 working on a Nigerian movie review app that allows user to search for Nigerian movie possible, and also allows the user to see information about each specific movie. Inspired by [enyelsequeira](https://www.enyelsequeira.com/)
+🛠 working on a Nigerian movie review app that allows users to search for Nigerian movie, and also allows the users to see information about each specific movie. Inspired by [enyelsequeira](https://www.enyelsequeira.com/)
