@@ -7,8 +7,8 @@
 <p align="center">Personal Internet Domicile </p>
 </p>
 <p align="center">
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/59252087-814e-4cfa-a8ed-1329cd968b3e/deploy-status)](https://app.netlify.com/sites/ema-udala/deploys)
-  </a>
+  </a> <a href="https://app.netlify.com/sites/ema-udala/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/59252087-814e-4cfa-a8ed-1329cd968b3e/deploy-status" alt="Netlify Status" />
 </p>
 
 ![demo](https://raw.githubusercontent.com/ema-udala/personal-website-v2/main/src/images/demo.png)
