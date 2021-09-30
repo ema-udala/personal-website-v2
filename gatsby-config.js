@@ -117,7 +117,7 @@ module.exports = {
               // leave false and use the {numberLines: true} syntax below
               showLineNumbers: false,
               // If setting this to true, the parser won't handle and highlight inline
-              // code used in markdown i.e. single backtick code like `this`.
+              // code used in markdown i.e. single backtick code  like `this`.
               noInlineHighlight: false,
               // This adds a new language definition to Prism or extend an already
               // existing language definition. More details on this option can be
